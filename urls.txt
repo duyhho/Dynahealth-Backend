@@ -6,3 +6,15 @@ https://pypi.org/project/sas7bdat/
 https://anaconda.org/anaconda/sas7bdat
 
 https://www2.census.gov/programs-surveys/cps/datasets/2020/march/ASEC2020ddl_pub_full.pdf
+
+
+PERLIS
+POVERTY LEVEL OF PERSONS (SUBFAMILY MEMBERS
+HAVE PRIMARY FAMILY RECODE)
+
+2 915 (-1:4)
+Values: -1 = NOT IN POVERTY UNIVERSE
+1 = BELOW POVERTY LEVEL
+2 = 100 - 124 PERCENT OF THE POVERTY LEVEL
+3 = 125 - 149 PERCENT OF THE POVERTY LEVEL
+4 = 150 AND ABOVE THE POVERTY LEVEL
