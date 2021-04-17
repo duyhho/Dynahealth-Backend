@@ -1,0 +1,957 @@
+{
+    "2017": {
+        "AK": {
+            "Issuer Name": "Premera Blue Cross Blue Shield of Alaska",
+            "record_count_x": 145,
+            "record_count_y": 145
+        },
+        "AL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Alabama",
+            "record_count_x": 469,
+            "record_count_y": 469
+        },
+        "AR": {
+            "Issuer Name": "USAble Mutual Insurance Company",
+            "record_count_x": 900,
+            "record_count_y": 1896
+        },
+        "AZ": {
+            "Issuer Name": "Blue Cross and Blue Shield of Arizona, Inc.",
+            "record_count_x": 66,
+            "record_count_y": 72
+        },
+        "DE": {
+            "Issuer Name": "Highmark BCBSD Inc.",
+            "record_count_x": 24,
+            "record_count_y": 60
+        },
+        "FL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Florida",
+            "record_count_x": 1274,
+            "record_count_y": 2417
+        },
+        "GA": {
+            "Issuer Name": "Blue Cross Blue Shield Healthcare Plan of Georgia, Inc.",
+            "record_count_x": 2067,
+            "record_count_y": 3192
+        },
+        "HI": {
+            "Issuer Name": "Hawaii Medical Service Association",
+            "record_count_x": 48,
+            "record_count_y": 92
+        },
+        "IA": {
+            "Issuer Name": "Aetna Health of Iowa Inc.",
+            "record_count_x": 619,
+            "record_count_y": 1326
+        },
+        "IL": {
+            "Issuer Name": "Health Alliance Medical Plans, Inc.",
+            "record_count_x": 1265,
+            "record_count_y": 2572
+        },
+        "IN": {
+            "Issuer Name": "Anthem Ins Companies Inc(Anthem BCBS)",
+            "record_count_x": 1472,
+            "record_count_y": 3630
+        },
+        "KS": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 735,
+            "record_count_y": 1272
+        },
+        "KY": {
+            "Issuer Name": "Anthem Health Plans of KY(Anthem BCBS)",
+            "record_count_x": 756,
+            "record_count_y": 1455
+        },
+        "LA": {
+            "Issuer Name": "HMO Louisiana, Inc.",
+            "record_count_x": 432,
+            "record_count_y": 1097
+        },
+        "ME": {
+            "Issuer Name": "Anthem Health Plans of ME(Anthem BCBS)",
+            "record_count_x": 208,
+            "record_count_y": 456
+        },
+        "MI": {
+            "Issuer Name": "Priority Health",
+            "record_count_x": 1513,
+            "record_count_y": 3664
+        },
+        "MO": {
+            "Issuer Name": "Healthy Alliance Life Co(Anthem BCBS)",
+            "record_count_x": 1360,
+            "record_count_y": 1557
+        },
+        "MS": {
+            "Issuer Name": "Ambetter of Magnolia Inc.",
+            "record_count_x": 1394,
+            "record_count_y": 1522
+        },
+        "MT": {
+            "Issuer Name": "Blue Cross and Blue Shield of Montana",
+            "record_count_x": 756,
+            "record_count_y": 1424
+        },
+        "NC": {
+            "Issuer Name": "Blue Cross and Blue Shield of NC",
+            "record_count_x": 950,
+            "record_count_y": 990
+        },
+        "ND": {
+            "Issuer Name": "Medica Health Plans",
+            "record_count_x": 399,
+            "record_count_y": 1108
+        },
+        "NE": {
+            "Issuer Name": "Aetna Health Inc. (a PA corp.)",
+            "record_count_x": 584,
+            "record_count_y": 1051
+        },
+        "NH": {
+            "Issuer Name": "Matthew Thornton Hlth Plan(Anthem BCBS)",
+            "record_count_x": 130,
+            "record_count_y": 335
+        },
+        "NJ": {
+            "Issuer Name": "AmeriHealth Ins Company of New Jersey",
+            "record_count_x": 225,
+            "record_count_y": 454
+        },
+        "NM": {
+            "Issuer Name": "New Mexico Health Connections",
+            "record_count_x": 297,
+            "record_count_y": 751
+        },
+        "NV": {
+            "Issuer Name": "HMO Colorado, Inc., dba HMO Nevada",
+            "record_count_x": 204,
+            "record_count_y": 407
+        },
+        "OH": {
+            "Issuer Name": "Community Insurance Company(Anthem BCBS)",
+            "record_count_x": 1848,
+            "record_count_y": 3113
+        },
+        "OK": {
+            "Issuer Name": "Blue Cross Blue Shield of Oklahoma",
+            "record_count_x": 994,
+            "record_count_y": 994
+        },
+        "OR": {
+            "Issuer Name": "BridgeSpan Health Company",
+            "record_count_x": 228,
+            "record_count_y": 716
+        },
+        "PA": {
+            "Issuer Name": "UPMC Health Options, Inc.",
+            "record_count_x": 369,
+            "record_count_y": 782
+        },
+        "SC": {
+            "Issuer Name": "Blue Cross and Blue Shield of South Carolina",
+            "record_count_x": 1196,
+            "record_count_y": 1196
+        },
+        "SD": {
+            "Issuer Name": "Avera Health Plans, Inc.",
+            "record_count_x": 792,
+            "record_count_y": 1200
+        },
+        "TN": {
+            "Issuer Name": "BlueCross BlueShield of Tennessee",
+            "record_count_x": 260,
+            "record_count_y": 530
+        },
+        "TX": {
+            "Issuer Name": "Blue Cross Blue Shield of Texas",
+            "record_count_x": 3556,
+            "record_count_y": 4824
+        },
+        "UT": {
+            "Issuer Name": "SelectHealth",
+            "record_count_x": 297,
+            "record_count_y": 397
+        },
+        "VA": {
+            "Issuer Name": "HealthKeepers, Inc.",
+            "record_count_x": 1950,
+            "record_count_y": 3583
+        },
+        "WI": {
+            "Issuer Name": "Security Health Plan of Wisconsin, Inc.",
+            "record_count_x": 616,
+            "record_count_y": 3437
+        },
+        "WV": {
+            "Issuer Name": "Highmark Blue Cross Blue Shield West Virginia",
+            "record_count_x": 385,
+            "record_count_y": 705
+        },
+        "WY": {
+            "Issuer Name": "Blue Cross Blue Shield of Wyoming",
+            "record_count_x": 690,
+            "record_count_y": 690
+        }
+    },
+    "2018": {
+        "AK": {
+            "Issuer Name": "Premera Blue Cross Blue Shield of Alaska",
+            "record_count_x": 145,
+            "record_count_y": 145
+        },
+        "AL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Alabama",
+            "record_count_x": 469,
+            "record_count_y": 487
+        },
+        "AR": {
+            "Issuer Name": "USAble Mutual Insurance Company",
+            "record_count_x": 750,
+            "record_count_y": 1935
+        },
+        "AZ": {
+            "Issuer Name": "Blue Cross and Blue Shield of Arizona, Inc.",
+            "record_count_x": 65,
+            "record_count_y": 74
+        },
+        "DE": {
+            "Issuer Name": "Highmark BCBSD Inc.",
+            "record_count_x": 21,
+            "record_count_y": 21
+        },
+        "FL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Florida",
+            "record_count_x": 1176,
+            "record_count_y": 2452
+        },
+        "GA": {
+            "Issuer Name": "Blue Cross Blue Shield Healthcare Plan of Georgia, Inc.",
+            "record_count_x": 1190,
+            "record_count_y": 2042
+        },
+        "HI": {
+            "Issuer Name": "Hawaii Medical Service Association",
+            "record_count_x": 44,
+            "record_count_y": 88
+        },
+        "IA": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 594,
+            "record_count_y": 594
+        },
+        "IL": {
+            "Issuer Name": "Health Alliance Medical Plans, Inc.",
+            "record_count_x": 1881,
+            "record_count_y": 2515
+        },
+        "IN": {
+            "Issuer Name": "CareSource Indiana, Inc.",
+            "record_count_x": 1123,
+            "record_count_y": 1809
+        },
+        "KS": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 735,
+            "record_count_y": 1258
+        },
+        "KY": {
+            "Issuer Name": "CareSource Kentucky Co.",
+            "record_count_x": 854,
+            "record_count_y": 1328
+        },
+        "LA": {
+            "Issuer Name": "HMO Louisiana, Inc.",
+            "record_count_x": 453,
+            "record_count_y": 1221
+        },
+        "ME": {
+            "Issuer Name": "Maine Community Health Options",
+            "record_count_x": 160,
+            "record_count_y": 254
+        },
+        "MI": {
+            "Issuer Name": "Blue Cross Blue Shield of Michigan Mutual Insurance Company",
+            "record_count_x": 664,
+            "record_count_y": 2103
+        },
+        "MO": {
+            "Issuer Name": "Healthy Alliance Life Co(Anthem BCBS)",
+            "record_count_x": 1088,
+            "record_count_y": 1368
+        },
+        "MS": {
+            "Issuer Name": "Ambetter of Magnolia Inc.",
+            "record_count_x": 410,
+            "record_count_y": 410
+        },
+        "MT": {
+            "Issuer Name": "Montana Health Cooperative",
+            "record_count_x": 432,
+            "record_count_y": 901
+        },
+        "NC": {
+            "Issuer Name": "Blue Cross and Blue Shield of NC",
+            "record_count_x": 852,
+            "record_count_y": 882
+        },
+        "ND": {
+            "Issuer Name": "Blue Cross Blue Shield of North Dakota",
+            "record_count_x": 371,
+            "record_count_y": 411
+        },
+        "NE": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 673,
+            "record_count_y": 673
+        },
+        "NH": {
+            "Issuer Name": "Matthew Thornton Hlth Plan(Anthem BCBS)",
+            "record_count_x": 110,
+            "record_count_y": 146
+        },
+        "NJ": {
+            "Issuer Name": "AmeriHealth Ins Company of New Jersey",
+            "record_count_x": 148,
+            "record_count_y": 427
+        },
+        "NM": {
+            "Issuer Name": "Blue Cross Blue Shield of New Mexico",
+            "record_count_x": 198,
+            "record_count_y": 581
+        },
+        "NV": {
+            "Issuer Name": "SilverSummit Healthplan, Inc.",
+            "record_count_x": 68,
+            "record_count_y": 98
+        },
+        "OH": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 780,
+            "record_count_y": 1884
+        },
+        "OK": {
+            "Issuer Name": "Blue Cross Blue Shield of Oklahoma",
+            "record_count_x": 479,
+            "record_count_y": 479
+        },
+        "OR": {
+            "Issuer Name": "Moda Health Plan, Inc.",
+            "record_count_x": 171,
+            "record_count_y": 431
+        },
+        "PA": {
+            "Issuer Name": "UPMC Health Options, Inc.",
+            "record_count_x": 441,
+            "record_count_y": 930
+        },
+        "SC": {
+            "Issuer Name": "Blue Cross and Blue Shield of South Carolina",
+            "record_count_x": 1104,
+            "record_count_y": 1104
+        },
+        "SD": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 618,
+            "record_count_y": 1146
+        },
+        "TN": {
+            "Issuer Name": "BlueCross BlueShield of Tennessee",
+            "record_count_x": 324,
+            "record_count_y": 483
+        },
+        "TX": {
+            "Issuer Name": "Blue Cross Blue Shield of Texas",
+            "record_count_x": 1778,
+            "record_count_y": 3192
+        },
+        "UT": {
+            "Issuer Name": "SelectHealth",
+            "record_count_x": 396,
+            "record_count_y": 512
+        },
+        "VA": {
+            "Issuer Name": "HealthKeepers, Inc.",
+            "record_count_x": 748,
+            "record_count_y": 1477
+        },
+        "WI": {
+            "Issuer Name": "Unity Health Plans Insurance Corporation",
+            "record_count_x": 594,
+            "record_count_y": 2401
+        },
+        "WV": {
+            "Issuer Name": "Highmark Blue Cross Blue Shield West Virginia",
+            "record_count_x": 440,
+            "record_count_y": 856
+        },
+        "WY": {
+            "Issuer Name": "Blue Cross Blue Shield of Wyoming",
+            "record_count_x": 230,
+            "record_count_y": 230
+        }
+    },
+    "2019": {
+        "AK": {
+            "Issuer Name": "Premera Blue Cross Blue Shield of Alaska",
+            "record_count_x": 145,
+            "record_count_y": 145
+        },
+        "AL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Alabama",
+            "record_count_x": 469,
+            "record_count_y": 487
+        },
+        "AR": {
+            "Issuer Name": "USAble Mutual Insurance Company",
+            "record_count_x": 675,
+            "record_count_y": 1803
+        },
+        "AZ": {
+            "Issuer Name": "Blue Cross and Blue Shield of Arizona, Inc.",
+            "record_count_x": 84,
+            "record_count_y": 120
+        },
+        "DE": {
+            "Issuer Name": "Highmark BCBSD Inc.",
+            "record_count_x": 24,
+            "record_count_y": 24
+        },
+        "FL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Florida",
+            "record_count_x": 1176,
+            "record_count_y": 2332
+        },
+        "GA": {
+            "Issuer Name": "Ambetter of Peach State Inc.",
+            "record_count_x": 805,
+            "record_count_y": 1932
+        },
+        "HI": {
+            "Issuer Name": "Hawaii Medical Service Association",
+            "record_count_x": 48,
+            "record_count_y": 92
+        },
+        "IA": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 738,
+            "record_count_y": 1134
+        },
+        "IL": {
+            "Issuer Name": "Health Alliance Medical Plans, Inc.",
+            "record_count_x": 1024,
+            "record_count_y": 1706
+        },
+        "IN": {
+            "Issuer Name": "Celtic Insurance Company",
+            "record_count_x": 1012,
+            "record_count_y": 1881
+        },
+        "KS": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 638,
+            "record_count_y": 1173
+        },
+        "KY": {
+            "Issuer Name": "CareSource Kentucky Co.",
+            "record_count_x": 732,
+            "record_count_y": 1373
+        },
+        "LA": {
+            "Issuer Name": "Vantage Health Plan, Inc.",
+            "record_count_x": 640,
+            "record_count_y": 1413
+        },
+        "ME": {
+            "Issuer Name": "Maine Community Health Options",
+            "record_count_x": 192,
+            "record_count_y": 436
+        },
+        "MI": {
+            "Issuer Name": "Blue Cross Blue Shield of Michigan Mutual Insurance Company",
+            "record_count_x": 664,
+            "record_count_y": 2156
+        },
+        "MO": {
+            "Issuer Name": "Healthy Alliance Life Co(Anthem BCBS)",
+            "record_count_x": 990,
+            "record_count_y": 1487
+        },
+        "MS": {
+            "Issuer Name": "Ambetter of Magnolia Inc.",
+            "record_count_x": 410,
+            "record_count_y": 410
+        },
+        "MT": {
+            "Issuer Name": "Montana Health Cooperative",
+            "record_count_x": 432,
+            "record_count_y": 1013
+        },
+        "NC": {
+            "Issuer Name": "Blue Cross and Blue Shield of NC",
+            "record_count_x": 1011,
+            "record_count_y": 1048
+        },
+        "ND": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 464,
+            "record_count_y": 1169
+        },
+        "NE": {
+            "Issuer Name": "Medica Insurance Company",
+            "record_count_x": 683,
+            "record_count_y": 683
+        },
+        "NH": {
+            "Issuer Name": "Matthew Thornton Hlth Plan(Anthem BCBS)",
+            "record_count_x": 100,
+            "record_count_y": 166
+        },
+        "NJ": {
+            "Issuer Name": "AmeriHealth Ins Company of New Jersey",
+            "record_count_x": 148,
+            "record_count_y": 441
+        },
+        "NM": {
+            "Issuer Name": "Blue Cross Blue Shield of New Mexico",
+            "record_count_x": 231,
+            "record_count_y": 718
+        },
+        "NV": {
+            "Issuer Name": "SilverSummit Healthplan, Inc.",
+            "record_count_x": 85,
+            "record_count_y": 112
+        },
+        "OH": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 660,
+            "record_count_y": 2207
+        },
+        "OK": {
+            "Issuer Name": "Blue Cross Blue Shield of Oklahoma",
+            "record_count_x": 544,
+            "record_count_y": 1006
+        },
+        "OR": {
+            "Issuer Name": "Moda Health Plan, Inc.",
+            "record_count_x": 195,
+            "record_count_y": 517
+        },
+        "PA": {
+            "Issuer Name": "UPMC Health Options, Inc.",
+            "record_count_x": 390,
+            "record_count_y": 1106
+        },
+        "SC": {
+            "Issuer Name": "Blue Cross and Blue Shield of South Carolina",
+            "record_count_x": 1112,
+            "record_count_y": 1117
+        },
+        "SD": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 552,
+            "record_count_y": 1023
+        },
+        "TN": {
+            "Issuer Name": "BlueCross BlueShield of Tennessee",
+            "record_count_x": 324,
+            "record_count_y": 911
+        },
+        "TX": {
+            "Issuer Name": "Blue Cross Blue Shield of Texas",
+            "record_count_x": 2286,
+            "record_count_y": 3581
+        },
+        "UT": {
+            "Issuer Name": "SelectHealth",
+            "record_count_x": 476,
+            "record_count_y": 669
+        },
+        "VA": {
+            "Issuer Name": "HealthKeepers, Inc.",
+            "record_count_x": 981,
+            "record_count_y": 1686
+        },
+        "WI": {
+            "Issuer Name": "Unity Health Plans Insurance Corporation",
+            "record_count_x": 513,
+            "record_count_y": 1959
+        },
+        "WV": {
+            "Issuer Name": "CareSource West Virginia Co.",
+            "record_count_x": 385,
+            "record_count_y": 770
+        },
+        "WY": {
+            "Issuer Name": "Blue Cross Blue Shield of Wyoming",
+            "record_count_x": 230,
+            "record_count_y": 230
+        }
+    },
+    "2020": {
+        "AK": {
+            "Issuer Name": "Premera Blue Cross Blue Shield of Alaska",
+            "record_count_x": 145,
+            "record_count_y": 169
+        },
+        "AL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Alabama",
+            "record_count_x": 469,
+            "record_count_y": 501
+        },
+        "AR": {
+            "Issuer Name": "Ambetter from Arkansas Health & Wellness",
+            "record_count_x": 1425,
+            "record_count_y": 2625
+        },
+        "AZ": {
+            "Issuer Name": "Ambetter from Arizona Complete Health",
+            "record_count_x": 191,
+            "record_count_y": 370
+        },
+        "DE": {
+            "Issuer Name": "Highmark Blue Cross Blue Shield Delaware",
+            "record_count_x": 36,
+            "record_count_y": 36
+        },
+        "FL": {
+            "Issuer Name": "Ambetter from Sunshine Health",
+            "record_count_x": 1575,
+            "record_count_y": 5000
+        },
+        "GA": {
+            "Issuer Name": "Ambetter from Peach State Health Plan",
+            "record_count_x": 1761,
+            "record_count_y": 4555
+        },
+        "HI": {
+            "Issuer Name": "HMSA",
+            "record_count_x": 60,
+            "record_count_y": 115
+        },
+        "IA": {
+            "Issuer Name": "Medica",
+            "record_count_x": 991,
+            "record_count_y": 1861
+        },
+        "IL": {
+            "Issuer Name": "Health Alliance",
+            "record_count_x": 996,
+            "record_count_y": 2065
+        },
+        "IN": {
+            "Issuer Name": "Ambetter from MHS",
+            "record_count_x": 2208,
+            "record_count_y": 3232
+        },
+        "KS": {
+            "Issuer Name": "Ambetter from Sunflower Health Plan",
+            "record_count_x": 1645,
+            "record_count_y": 3148
+        },
+        "KY": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 1128,
+            "record_count_y": 2077
+        },
+        "LA": {
+            "Issuer Name": "HMO Louisiana",
+            "record_count_x": 483,
+            "record_count_y": 1175
+        },
+        "ME": {
+            "Issuer Name": "Community Health Options",
+            "record_count_x": 240,
+            "record_count_y": 536
+        },
+        "MI": {
+            "Issuer Name": "Blue Cross Blue Shield of Michigan Mutual Insurance Company",
+            "record_count_x": 634,
+            "record_count_y": 2931
+        },
+        "MO": {
+            "Issuer Name": "Ambetter from Home State Health",
+            "record_count_x": 1472,
+            "record_count_y": 3520
+        },
+        "MS": {
+            "Issuer Name": "Ambetter from Magnolia Health",
+            "record_count_x": 902,
+            "record_count_y": 1804
+        },
+        "MT": {
+            "Issuer Name": "Mountain Health CO-OP",
+            "record_count_x": 560,
+            "record_count_y": 1253
+        },
+        "NC": {
+            "Issuer Name": "Blue Cross and Blue Shield of NC",
+            "record_count_x": 979,
+            "record_count_y": 2884
+        },
+        "ND": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 464,
+            "record_count_y": 1265
+        },
+        "NE": {
+            "Issuer Name": "Bright Health",
+            "record_count_x": 1056,
+            "record_count_y": 1976
+        },
+        "NH": {
+            "Issuer Name": "Ambetter from New Hampshire Healthy Families",
+            "record_count_x": 130,
+            "record_count_y": 340
+        },
+        "NM": {
+            "Issuer Name": "Molina Healthcare",
+            "record_count_x": 297,
+            "record_count_y": 1254
+        },
+        "OH": {
+            "Issuer Name": "Anthem Blue Cross and Blue Shield",
+            "record_count_x": 1292,
+            "record_count_y": 4779
+        },
+        "OK": {
+            "Issuer Name": "Medica",
+            "record_count_x": 604,
+            "record_count_y": 1289
+        },
+        "OR": {
+            "Issuer Name": "Regence BlueCross BlueShield of Oregon",
+            "record_count_x": 336,
+            "record_count_y": 1130
+        },
+        "SC": {
+            "Issuer Name": "BlueCross BlueShield of South Carolina",
+            "record_count_x": 932,
+            "record_count_y": 1985
+        },
+        "SD": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 552,
+            "record_count_y": 1026
+        },
+        "TN": {
+            "Issuer Name": "Ambetter of Tennessee",
+            "record_count_x": 1539,
+            "record_count_y": 3562
+        },
+        "TX": {
+            "Issuer Name": "Ambetter from Superior HealthPlan",
+            "record_count_x": 4692,
+            "record_count_y": 8858
+        },
+        "UT": {
+            "Issuer Name": "SelectHealth",
+            "record_count_x": 494,
+            "record_count_y": 1091
+        },
+        "VA": {
+            "Issuer Name": "Anthem HealthKeepers",
+            "record_count_x": 1105,
+            "record_count_y": 2183
+        },
+        "WI": {
+            "Issuer Name": "Quartz",
+            "record_count_x": 621,
+            "record_count_y": 3110
+        },
+        "WV": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 605,
+            "record_count_y": 1155
+        },
+        "WY": {
+            "Issuer Name": "Blue Cross Blue Shield of Wyoming",
+            "record_count_x": 276,
+            "record_count_y": 368
+        }
+    },
+    "2021": {
+        "AK": {
+            "Issuer Name": "Premera Blue Cross Blue Shield of Alaska",
+            "record_count_x": 145,
+            "record_count_y": 169
+        },
+        "AL": {
+            "Issuer Name": "Blue Cross and Blue Shield of Alabama",
+            "record_count_x": 469,
+            "record_count_y": 501
+        },
+        "AR": {
+            "Issuer Name": "Ambetter from Arkansas Health & Wellness",
+            "record_count_x": 1425,
+            "record_count_y": 2625
+        },
+        "AZ": {
+            "Issuer Name": "Ambetter from Arizona Complete Health",
+            "record_count_x": 191,
+            "record_count_y": 370
+        },
+        "DE": {
+            "Issuer Name": "Highmark Blue Cross Blue Shield Delaware",
+            "record_count_x": 36,
+            "record_count_y": 36
+        },
+        "FL": {
+            "Issuer Name": "Ambetter from Sunshine Health",
+            "record_count_x": 1575,
+            "record_count_y": 5000
+        },
+        "GA": {
+            "Issuer Name": "Ambetter from Peach State Health Plan",
+            "record_count_x": 1761,
+            "record_count_y": 4555
+        },
+        "HI": {
+            "Issuer Name": "HMSA",
+            "record_count_x": 60,
+            "record_count_y": 115
+        },
+        "IA": {
+            "Issuer Name": "Medica",
+            "record_count_x": 991,
+            "record_count_y": 1861
+        },
+        "IL": {
+            "Issuer Name": "Health Alliance",
+            "record_count_x": 996,
+            "record_count_y": 2065
+        },
+        "IN": {
+            "Issuer Name": "Ambetter from MHS",
+            "record_count_x": 2208,
+            "record_count_y": 3232
+        },
+        "KS": {
+            "Issuer Name": "Ambetter from Sunflower Health Plan",
+            "record_count_x": 1645,
+            "record_count_y": 3148
+        },
+        "KY": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 1128,
+            "record_count_y": 2077
+        },
+        "LA": {
+            "Issuer Name": "HMO Louisiana",
+            "record_count_x": 483,
+            "record_count_y": 1175
+        },
+        "ME": {
+            "Issuer Name": "Community Health Options",
+            "record_count_x": 240,
+            "record_count_y": 536
+        },
+        "MI": {
+            "Issuer Name": "Blue Cross Blue Shield of Michigan Mutual Insurance Company",
+            "record_count_x": 634,
+            "record_count_y": 2931
+        },
+        "MO": {
+            "Issuer Name": "Ambetter from Home State Health",
+            "record_count_x": 1472,
+            "record_count_y": 3520
+        },
+        "MS": {
+            "Issuer Name": "Ambetter from Magnolia Health",
+            "record_count_x": 902,
+            "record_count_y": 1804
+        },
+        "MT": {
+            "Issuer Name": "Mountain Health CO-OP",
+            "record_count_x": 560,
+            "record_count_y": 1253
+        },
+        "NC": {
+            "Issuer Name": "Blue Cross and Blue Shield of NC",
+            "record_count_x": 979,
+            "record_count_y": 2884
+        },
+        "ND": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 464,
+            "record_count_y": 1265
+        },
+        "NE": {
+            "Issuer Name": "Bright Health",
+            "record_count_x": 1056,
+            "record_count_y": 1976
+        },
+        "NH": {
+            "Issuer Name": "Ambetter from New Hampshire Healthy Families",
+            "record_count_x": 130,
+            "record_count_y": 340
+        },
+        "NM": {
+            "Issuer Name": "Molina Healthcare",
+            "record_count_x": 297,
+            "record_count_y": 1254
+        },
+        "OH": {
+            "Issuer Name": "Anthem Blue Cross and Blue Shield",
+            "record_count_x": 1292,
+            "record_count_y": 4779
+        },
+        "OK": {
+            "Issuer Name": "Medica",
+            "record_count_x": 604,
+            "record_count_y": 1289
+        },
+        "OR": {
+            "Issuer Name": "Regence BlueCross BlueShield of Oregon",
+            "record_count_x": 336,
+            "record_count_y": 1130
+        },
+        "SC": {
+            "Issuer Name": "BlueCross BlueShield of South Carolina",
+            "record_count_x": 932,
+            "record_count_y": 1985
+        },
+        "SD": {
+            "Issuer Name": "Sanford Health Plan",
+            "record_count_x": 552,
+            "record_count_y": 1026
+        },
+        "TN": {
+            "Issuer Name": "Ambetter of Tennessee",
+            "record_count_x": 1539,
+            "record_count_y": 3562
+        },
+        "TX": {
+            "Issuer Name": "Ambetter from Superior HealthPlan",
+            "record_count_x": 4692,
+            "record_count_y": 8858
+        },
+        "UT": {
+            "Issuer Name": "SelectHealth",
+            "record_count_x": 494,
+            "record_count_y": 1091
+        },
+        "VA": {
+            "Issuer Name": "Anthem HealthKeepers",
+            "record_count_x": 1105,
+            "record_count_y": 2183
+        },
+        "WI": {
+            "Issuer Name": "Quartz",
+            "record_count_x": 621,
+            "record_count_y": 3110
+        },
+        "WV": {
+            "Issuer Name": "CareSource",
+            "record_count_x": 605,
+            "record_count_y": 1155
+        },
+        "WY": {
+            "Issuer Name": "Blue Cross Blue Shield of Wyoming",
+            "record_count_x": 276,
+            "record_count_y": 368
+        }
+    }
+}

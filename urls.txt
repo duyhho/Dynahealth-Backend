@@ -18,3 +18,4 @@ Values: -1 = NOT IN POVERTY UNIVERSE
 2 = 100 - 124 PERCENT OF THE POVERTY LEVEL
 3 = 125 - 149 PERCENT OF THE POVERTY LEVEL
 4 = 150 AND ABOVE THE POVERTY LEVEL
+https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/
