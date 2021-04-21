@@ -1,6 +1,7 @@
 https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
-https://www.census.gov/data/datasets/2018/demo/health-insurance/2018-cps-asec-split-panel-test.html
-https://pypi.org/project/sas7bdat/
-https://anaconda.org/anaconda/sas7bdat
+https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html
 https://www2.census.gov/programs-surveys/cps/datasets/2020/march/ASEC2020ddl_pub_full.pdf
 https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg/data
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/b7pe-5nws
+https://www.kaggle.com/teertha/ushealthinsurancedataset
