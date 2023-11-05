@@ -1,5 +1,12 @@
 # DynaHealth Backend (Data Collection, Processing, Training, and Deployment)
+
 Authors: Duy Ho, Hieu Trinh, Nhung Tran
+
+## Award: 1st place
+
+
+
+
 
 Award Page: https://info.umkc.edu/hack-a-roo/spring-2021-it-track/
 
